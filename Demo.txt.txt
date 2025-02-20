@@ -1,0 +1,25 @@
+Visual Computing:
+
+Involves processing and analyzing visual data (images, videos, 3D models).
+Key areas: Computer Vision, Image Processing, and Computer Graphics.
+Software Technologies:
+
+Focus on building software that handles visual data.
+Includes algorithms, machine learning, and software engineering.
+Key Areas:
+
+Computer Vision: Understanding images (e.g., object detection, facial recognition).
+Graphics/Rendering: Creating 3D models and realistic visuals.
+Human-Computer Interaction (HCI): Enhancing interaction using visual data (e.g., gesture control).
+AI Integration: Using AI to improve visual data analysis.
+Applications:
+
+Augmented/Virtual Reality (AR/VR).
+Medical Imaging for diagnosis.
+Autonomous Vehicles (self-driving cars).
+Robotics: Vision-based tasks like object manipulation.
+Software Tools:
+
+OpenCV: Library for computer vision tasks.
+TensorFlow/PyTorch: Machine learning frameworks.
+Blender/Unity: 3D modeling and game development
